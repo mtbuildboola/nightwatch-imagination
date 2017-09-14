@@ -28,7 +28,7 @@
     "gm": "^1.21.1",
     "minimist": "^1.2.0",
     "nightwatch": "^0.9.9",
-    "node-resemble-v2": "^1.0.0"
+    "node-resemble-v2": "git://github.com/mtbuildboola/node-resemble-v2"
   },
   "engines": {},
   "devDependencies": {
